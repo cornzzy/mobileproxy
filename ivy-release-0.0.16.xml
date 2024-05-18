@@ -1,0 +1,10 @@
+<ivy-module version="2.0">
+    <info organisation="com.abisar" module="mobileproxy" revision="0.0.16" status="release"/>
+    <configurations>
+        <conf name="default" visibility="public"/>
+    </configurations>
+    <publications>
+        <artifact name="mobileproxy-release" type="aar" ext="aar" conf="default"/>
+    </publications>
+    <dependencies/>
+</ivy-module>
